@@ -1,3 +1,6 @@
 # cwiczenie
 cwicze repo
-po otworzeniu pisakaczyli edycja
+1st-branch
+tutaj dodaje w1t branch po edycji
+=======
+po otworzeniu pisakaczyli edycja master
